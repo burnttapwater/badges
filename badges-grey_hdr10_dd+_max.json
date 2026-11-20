@@ -92,7 +92,7 @@
       "groupId": "gst",
       "isEnabled": true,
       "pattern": "(?s)^(?=.*(?:⁣‌‌‍‍‌‍‍‍⁤))",
-      "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/special-tags/seadex.png?rev=83a6a044cdeb",
+      "imageURL": "https://raw.githubusercontent.com/burnttapwater/badges/refs/heads/main/badge-images/special-tags/seadex.png",
       "tagColor": "#000000",
       "borderColor": "#FFFFFF",
       "textColor": "#FFFFFF",
