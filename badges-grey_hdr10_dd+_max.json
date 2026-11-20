@@ -87,6 +87,19 @@
   ],
   "filters": [
     {
+      "id": "seadex-release",
+      "name": "SEADEX",
+      "groupId": "gst",
+      "isEnabled": true,
+      "pattern": "(?s)^(?=.*(?:⁣‌‌‍‍‌‍‍‍⁤))",
+      "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/special-tags/seadex.png?rev=83a6a044cdeb",
+      "tagColor": "#000000",
+      "borderColor": "#FFFFFF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
       "borderColor": "rgba(0,0,0,0)",
       "groupId": "gst",
       "id": "hybrid-release",
