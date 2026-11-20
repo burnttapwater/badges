@@ -87,15 +87,15 @@
   ],
   "filters": [
     {
+      "borderColor": "rgba(0,0,0,0)",
       "id": "seadex-release",
       "name": "SEADEX",
       "groupId": "gst",
       "isEnabled": true,
       "pattern": "(?s)^(?=.*(?:⁣‌‌‍‍‌‍‍‍⁤))",
       "imageURL": "https://raw.githubusercontent.com/burnttapwater/badges/refs/heads/main/badge-images/special-tags/seadex.png",
-      "tagColor": "#000000",
-      "borderColor": "#FFFFFF",
-      "textColor": "#FFFFFF",
+      "tagColor": "#00000000",
+      "textColor": "#9d9e9f",
       "tagStyle": "filled",
       "type": "filter"
     },
