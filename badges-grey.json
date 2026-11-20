@@ -96,7 +96,7 @@
       "tagColor": "#000000",
       "borderColor": "#FFFFFF",
       "textColor": "#FFFFFF",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "type": "filter"
     },
     {
